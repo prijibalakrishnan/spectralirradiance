@@ -1,5 +1,5 @@
 # Spectral irradiance comparisons
-Comparisons of measured spectral irradiance with spectral outputs from [LARK](http://faculty.washington.edu/inanici/Lark/Lark_home_page.html) and [ALFA](https://solemma.com/Alfa.html)
+Comparisons of measured spectral irradiance with spectral outputs from LARK and ALFA
 
 ## Terms of use
 For use of these images, kindly cite the conference paper *Spectral Rendering with Daylight: A Comparison of Two Spectral Daylight Simulation Platforms*
@@ -22,6 +22,8 @@ The repository has a collection of normalised spectral irradiance comparisons of
 - **reflective**: outdoor environment enclosed with reflective glass facade.
 
 The three urban scenarios are measured in Singapore under four different sky conditions *'clear', 'morning', 'evening', 'overcast'*. More details on the sky conditions, measurement set-up and recorded spectral irradiance of the skies can be found in the [equatorial skies repository](https://github.com/prijibalakrishnan/equatorialskies)
+
+The upcoming conference publication *Spectral Rendering with Daylight: A Comparison of Two Spectral Daylight Simulation Platforms* has detailed information on the measurement set-up in the three urban environments and comparison between [LARK](http://faculty.washington.edu/inanici/Lark/Lark_home_page.html) and [ALFA](https://solemma.com/Alfa.html), the two currently available spectral daylight simulation platforms.
 
 ## Spectral Irradiance Comparisons
 
