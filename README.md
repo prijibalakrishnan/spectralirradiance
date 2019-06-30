@@ -8,7 +8,7 @@ For use of these images, kindly cite the conference paper *Spectral Rendering wi
 @inproceedings{balakrishnan2019spectral,
     author  = "Balakrishnan, Priji and Jakubiec, J Alstan" ,
     title   = "Spectral Rendering with Daylight: A Comparison of Two Spectral Daylight Simulation Platforms",
-    booktitle = "Proceedings of the International Building Performance Simulation Association 2019"
+    booktitle = "BS 2019 - Proceedings of the 16th International Building Performance Simulation Association"
     year    = "2019",
 
 }
